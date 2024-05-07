@@ -19,9 +19,14 @@ Demonstrated proficiency in Docker containerization, C# programming, and API dev
 Technologies Used:
 
 C# (.NET Core/.NET Framework)
+
 ASP.NET Core
+
 Docker
+
 RESTful API Design
+
 Swagger/OpenAPI
+
 Postman
 Note: This experience highlights your proficiency in API development using C# and Docker, showcasing your ability to design, develop, and deploy scalable and maintainable software solutions.
