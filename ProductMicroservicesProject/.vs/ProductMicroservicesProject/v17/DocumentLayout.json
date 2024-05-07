@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MvC Project\\ProductMicroservicesProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6300FB-D93A-4362-98C0-1D7D79B8F94F}|docker-compose.dcproj|f:\\mvc project\\productmicroservicesproject\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A6300FB-D93A-4362-98C0-1D7D79B8F94F}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6300FB-D93A-4362-98C0-1D7D79B8F94F}|docker-compose.dcproj|F:\\MvC Project\\ProductMicroservicesProject\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A6300FB-D93A-4362-98C0-1D7D79B8F94F}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01380F7-BD5F-46D1-82F0-48D5CB995514}|ProductMicroservicesProject\\ProductMicroservicesProject.csproj|F:\\MvC Project\\ProductMicroservicesProject\\productmicroservicesproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01380F7-BD5F-46D1-82F0-48D5CB995514}|ProductMicroservicesProject\\ProductMicroservicesProject.csproj|solutionrelative:productmicroservicesproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "F:\\MvC Project\\ProductMicroservicesProject\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "F:\\MvC Project\\ProductMicroservicesProject\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-30T20:12:30.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose",
+              "DocumentMoniker": "F:\\MvC Project\\ProductMicroservicesProject\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "F:\\MvC Project\\ProductMicroservicesProject\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T20:09:58.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\MvC Project\\ProductMicroservicesProject\\ProductMicroservicesProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductMicroservicesProject\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\MvC Project\\ProductMicroservicesProject\\ProductMicroservicesProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductMicroservicesProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:31:38.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
